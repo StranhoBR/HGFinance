@@ -1,0 +1,14 @@
+E:\ProjetoASPNET\CotacaoDolaHG\CotacaoDolaHG\bin\Debug\CotacaoDolaHG.exe.config
+E:\ProjetoASPNET\CotacaoDolaHG\CotacaoDolaHG\bin\Debug\CotacaoDolaHG.exe
+E:\ProjetoASPNET\CotacaoDolaHG\CotacaoDolaHG\bin\Debug\CotacaoDolaHG.pdb
+E:\ProjetoASPNET\CotacaoDolaHG\CotacaoDolaHG\obj\Debug\CotacaoDolaHG.csproj.AssemblyReference.cache
+E:\ProjetoASPNET\CotacaoDolaHG\CotacaoDolaHG\obj\Debug\CotacaoDolaHG.csproj.SuggestedBindingRedirects.cache
+E:\ProjetoASPNET\CotacaoDolaHG\CotacaoDolaHG\obj\Debug\CotacaoDolaHG.FrmCotacaoDolar.resources
+E:\ProjetoASPNET\CotacaoDolaHG\CotacaoDolaHG\obj\Debug\CotacaoDolaHG.Properties.Resources.resources
+E:\ProjetoASPNET\CotacaoDolaHG\CotacaoDolaHG\obj\Debug\CotacaoDolaHG.csproj.GenerateResource.cache
+E:\ProjetoASPNET\CotacaoDolaHG\CotacaoDolaHG\obj\Debug\CotacaoDolaHG.csproj.CoreCompileInputs.cache
+E:\ProjetoASPNET\CotacaoDolaHG\CotacaoDolaHG\obj\Debug\CotacaoDolaHG.exe
+E:\ProjetoASPNET\CotacaoDolaHG\CotacaoDolaHG\obj\Debug\CotacaoDolaHG.pdb
+E:\ProjetoASPNET\CotacaoDolaHG\CotacaoDolaHG\bin\Debug\Newtonsoft.Json.dll
+E:\ProjetoASPNET\CotacaoDolaHG\CotacaoDolaHG\bin\Debug\Newtonsoft.Json.xml
+E:\ProjetoASPNET\CotacaoDolaHG\CotacaoDolaHG\obj\Debug\CotacaoDolaHG.csproj.CopyComplete
